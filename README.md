@@ -2,7 +2,8 @@ Upload Notebook – AI Project
 
 Building AI course project
 
-Summary
+##Summary
+
 
 This project explores the fundamentals of Artificial Intelligence and Machine Learning through practical Python exercises, covering probability, Bayesian reasoning, optimization, regression, classification, and neural networks.
 
