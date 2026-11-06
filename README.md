@@ -1,5 +1,4 @@
-# Project Title
-AI and Machine Learning – Practical Exercises
+# Project Title AI and Machine Learning – Practical Exercises
 
 Final project for the Building AI course
 
