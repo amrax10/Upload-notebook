@@ -1,3 +1,4 @@
+# Project Title
 AI and Machine Learning – Practical Exercises
 
 Final project for the Building AI course
@@ -6,7 +7,7 @@ Final project for the Building AI course
 
 This project explores Artificial Intelligence and Machine Learning using Python. It includes practical exercises on Bayesian reasoning, optimization, regression, classification, text analysis, and neural networks to understand how AI algorithms solve real-world problems.
 
-Background
+## Background
 
 Artificial Intelligence is becoming an important part of everyday life. Machine learning helps computers learn from data, recognize patterns, and make predictions.
 
@@ -20,7 +21,7 @@ Applying Bayesian reasoning to calculate probabilities.
 Finding similarities between text documents using TF-IDF.
 Understanding neural networks and making predictions.
 Using simulated annealing for optimization problems.
-How is it used?
+## How is it used?
 
 This project is designed for students and beginners who want to learn Artificial Intelligence and Machine Learning.
 
