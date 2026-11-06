@@ -1,4 +1,4 @@
-# AI and Machine Learning – Practical Exercises
+# Building AI – Final Project
 
 Final project for the Building AI course
 
